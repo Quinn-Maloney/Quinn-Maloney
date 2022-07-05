@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quinn-Maloney
 - 👀 I’m interested in using my mathematical and computing skills to help improve our planet.
-- 🌱 I’m currently a senior at Regis University where I am studying Mathematics and Computer Science. I am also taking Data Science masters courses at Regis. 
+- 🌱 I just graduated from Regis University with an undergraduate in Mathematics and Computer Science. I also have received a Graduate Certificate in Data Science from Regis University. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: you can find my LinkedIn account by following the link https://www.linkedin.com/in/quinn-maloney-235a37201/
 
